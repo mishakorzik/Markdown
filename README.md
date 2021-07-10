@@ -152,21 +152,37 @@ _____
 - [x] Markdown
 - [ ] test text
 
-[x] it is possible and without risk
-
 ```
 
 - [x] desing
 - [x] Markdown
 - [ ] test text
 
-[x] it is possible and without risk
-
 #### We proceed to Example 7
+
+---
+
+## Example 7
+
+```
+
+> You can make columns
+>> And you can have two arrows
+
+> **this is a test text**
+
+```
+
+> You can make columns
+>> And you can have two arrows
+
+> **this is a test text**
+
+#### We proceed to Example 8
 
 ***
 
-## Example 7
+## Example 8
 
 #### Now I will be a little difficult because there will be many commands
 
