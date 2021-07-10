@@ -25,6 +25,9 @@
 ###### text 1
 
 #### This is how example 1 works. The more grids, the less text. Okay, let's start with another test
+
+---
+
 ## Example 2
 
 ```
@@ -45,6 +48,8 @@ ____
 ___
 
 #### the more stars or dashes, nothing will change, at least 3 dashes or asterisks.
+
+--- 
 
 ## Exaple 3
 
@@ -81,6 +86,8 @@ _hello world!_
 
 #### That's how everything works, you can make the text large with a slope and small
 
+---
+
 ## Example 4
 
 ```
@@ -108,6 +115,8 @@ _hello world!_
 * _this text is italic_
 
 #### Here is our text wrapped in a frame
+
+---
 
 ## Example 5
 
