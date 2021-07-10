@@ -80,7 +80,7 @@ Underscores
 
 --- 
 
-## Exaple 3
+## Example 3
 
 ```
 _hello world!_
