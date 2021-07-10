@@ -278,6 +278,8 @@ Hello world! pass: 7586
 
 ```
 
+#### click on the word UP
+
 [UP](#5932)
 
 #### Where you put <a id="NUMBER"> </a> it will move to this command, but the command will not be visible
