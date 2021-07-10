@@ -4,7 +4,7 @@
 #### hi, today is a great day to explore the markdown
 
 • [Headers](#111) • [Emphasis](#222) • [Lists](#333) • [Links](#444) 
-• [Images](#555) • [Tables](#666)
+• [Images](#555) • [Tables](#666) • [Tables](#777)
 
 <a id="111"></a>
 
@@ -19,6 +19,12 @@
 #### text 1
 ##### text 1
 ###### text 1
+
+Alt-H1
+======
+
+Alt-H2
+------
 ```
 
 # text 1
@@ -27,6 +33,12 @@
 #### text 1
 ##### text 1
 ###### text 1
+
+Alt-H1
+======
+
+Alt-H2
+------
 
 #### This is how example 1 works. The more grids, the less text. Okay, let's start with another test
 
@@ -178,6 +190,8 @@ _____
 #### We proceed to Example 7
 
 ---
+
+<a id="777"></a>
 
 ## Example 7
 
