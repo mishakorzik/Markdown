@@ -1,7 +1,9 @@
 # Markdown
-#### study markdown from scratch
+#### study markdown from scratch. Hi, today is a great day to explore the markdown
 
-#### hi, today is a great day to explore the markdown
+#### • I recommend to look: <a href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools</a>
+
+--------------
 
 • [Headers](#111) • [Emphasis](#222) • [Lists](#333) • [Links](#444) 
 • [Images](#555) • [Tables](#666) • [Blockquotes](#777) • [ticks](#999) • [Additional texts](#1100)
