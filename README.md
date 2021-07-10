@@ -237,6 +237,51 @@ Hello world! pass: 7586
 
 #### As you can see it turns out very nice and cool!
 
+---
+<a id="5932"></a>
+
+## Example 9
+
+```
+<img src="https://img.shields.io/badge/Build-passed-green.svg" alt="passed"> 
+<img src="https://img.shields.io/badge/Version-None-blue.svg" alt="version"> 
+<img src="https://img.shields.io/badge/license-GNU-orange.svg" alt="license">
+
+<img src="https://img.shields.io/badge/NAME-NAME-COLOR.svg" alt="NAME"> 
+
+
+```
+
+<img src="https://img.shields.io/badge/Build-passed-green.svg" alt="passed"> 
+<img src="https://img.shields.io/badge/Version-None-blue.svg" alt="version"> 
+<img src="https://img.shields.io/badge/license-GNU-orange.svg" alt="license">
+
+#### you can still make badges to make it beautiful
+
+-------
+
+## Example 10
+
+```
+<a id="5932"></a>
 
 
 
+
+
+[Options](#5932)
+
+
+
+<a id="NUMBER"></a>
+[NAME](#NUMBER)
+
+```
+
+[UP](#5932)
+
+#### Where you put <a id="NUMBER"> </a> it will move to this command, but the command will not be visible
+
+#### I put next to the word Example 9
+
+********
