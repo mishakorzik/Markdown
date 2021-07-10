@@ -4,7 +4,10 @@
 #### hi, today is a great day to explore the markdown
 
 • [Headers](#111) • [Emphasis](#222) • [Lists](#333) • [Links](#444) 
+
 • [Images](#555) • [Tables](#666) • [Blockquotes](#777) • [Horizontal Rule](#888)
+
+• [ticks](#999) • [Additional texts](#1100) • [raised text](#1000)
 
 <a id="111"></a>
 
@@ -149,6 +152,8 @@ _hello world!_
 
 ---
 
+<a id="1000"></a>
+
 ## Example 5
 
 ```
@@ -174,6 +179,8 @@ ___
     - no, well, I did not put a square
 
 _____
+
+<a id="999"></a>
 
 ## Example 6
 
@@ -214,6 +221,8 @@ _____
 #### We proceed to Example 8
 
 ***
+
+<a id="1100"></a>
 
 ## Example 8
 
