@@ -4,7 +4,7 @@
 #### hi, today is a great day to explore the markdown
 
 • [Headers](#111) • [Emphasis](#222) • [Lists](#333) • [Links](#444) 
-• [Images](#555) • [Tables](#666) • [Tables](#777)
+• [Images](#555) • [Tables](#666) • [Blockquotes](#777) • [Horizontal Rule](#888)
 
 <a id="111"></a>
 
@@ -43,6 +43,8 @@ Alt-H2
 #### This is how example 1 works. The more grids, the less text. Okay, let's start with another test
 
 ---
+
+<a id="888"></a>
 
 ## Example 2
 
