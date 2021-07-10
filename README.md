@@ -298,3 +298,37 @@ Hello world! pass: 7586
 #### I put next to the word Example 9
 
 ********
+
+## Example 11
+
+#### Colons can be used to align columns.
+
+```
+| Tables        | total         | list  |
+| ------------- |:-------------:| -----:|
+| Green         | 788 and 1207  | 122   |
+| While         | 544 and 568   | 176   |
+| Yellow        | 282 and 775   | 212   |
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+```
+
+| Tables        | total         | list  |
+| ------------- |:-------------:| -----:|
+| Green         | 788 and 1207  | 122   |
+| While         | 544 and 568   | 176   |
+| Yellow        | 282 and 775   | 212   |
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+_______
+
+## Example 12
