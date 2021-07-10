@@ -4,10 +4,10 @@
 #### hi, today is a great day to explore the markdown
 
 • [Headers](#111) • [Emphasis](#222) • [Lists](#333) • [Links](#444) 
-• [Images](#555) • [Tables](#666) • [Blockquotes](#777) • [ticks](#999)
+• [Images](#555) • [Tables](#666) • [Blockquotes](#777) • [ticks](#999) • [Additional texts](#1100)
 
-• [Additional texts](#1100) • [raised text](#1000)
-• [Horizontal Rule](#888) • [Horizontal Rule](#888) • [text with slope](#1222) • [badges](#1333)
+• [raised text](#1000) • [Horizontal Rule](#888) 
+• [Horizontal Rule](#888) • [text with slope](#1222) • [badges](#1333) • [menu of columns](#1444)
 
 <a id="111"></a>
 
