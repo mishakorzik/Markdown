@@ -142,6 +142,28 @@ ___
   - that's what I put a risk
     - no, well, I did not put a square
 
+_____
+
+## Example 6
+
+```
+
+- [x] desing
+- [x] Markdown
+- [ ] test text
+
+[x] it is possible and without risk
+
+```
+
+- [x] desing
+- [x] Markdown
+- [ ] test text
+
+[x] it is possible and without risk
+
+#### We proceed to Example 7
+
 ***
 
 ## Example 7
