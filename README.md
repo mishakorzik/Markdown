@@ -32,20 +32,31 @@
 
 ```
 ---
-----
+
+Hyphens
+
 ***
-****
+
+Asterisks
+
 ___
-____
+
+Underscores
 ```
 
 #### you can now make lines that will separate the text
 
----
+--- 
+
+Hyphens
 
 ***
 
+Asterisks
+
 ___
+
+Underscores
 
 #### the more stars or dashes, nothing will change, at least 3 dashes or asterisks.
 
