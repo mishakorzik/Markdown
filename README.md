@@ -4,10 +4,10 @@
 #### hi, today is a great day to explore the markdown
 
 • [Headers](#111) • [Emphasis](#222) • [Lists](#333) • [Links](#444) 
+• [Images](#555) • [Tables](#666) • [Blockquotes](#777) • [ticks](#999)
 
-• [Images](#555) • [Tables](#666) • [Blockquotes](#777) • [Horizontal Rule](#888)
-
-• [ticks](#999) • [Additional texts](#1100) • [raised text](#1000)
+• [Additional texts](#1100) • [raised text](#1000)
+• [Horizontal Rule](#888) • [Horizontal Rule](#888) • [text with slope](#1222) • [badges](#1333)
 
 <a id="111"></a>
 
@@ -82,6 +82,8 @@ Underscores
 #### the more stars or dashes, nothing will change, at least 3 dashes or asterisks.
 
 --- 
+
+<a id="1222"></a>
 
 ## Example 3
 
@@ -282,6 +284,8 @@ Hello world! pass: 7586
 ---
 <a id="5932"></a>
 
+<a id="1333"></a>
+
 ## Example 9
 
 ```
@@ -301,6 +305,8 @@ Hello world! pass: 7586
 #### you can still make badges to make it beautiful
 
 -------
+
+<a id="1444"></a>
 
 ## Example 10
 
