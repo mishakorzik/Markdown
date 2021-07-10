@@ -3,7 +3,7 @@
 
 #### hi, today is a great day to explore the markdown
 
-[Headers](#111) • [Headers](#222)
+[Headers](#111) • [Emphasis](#222) • [Lists](#333) • [Links](#444) • [Images](#555)
 
 <a id="111"></a>
 ## Example 1
@@ -100,6 +100,8 @@ _hello world!_
 #### That's how everything works, you can make the text large with a slope and small
 
 ---
+
+<a id="333"></a>
 
 ## Example 4
 
@@ -334,6 +336,8 @@ Markdown | Less | Pretty
 
 _______
 
+<a id="444"></a>
+
 ## Example 12
 
 ```
@@ -374,6 +378,11 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
+
+--------
+
+<a id="222"></a>
+
 ## Example 13
 
 ```
@@ -407,3 +416,30 @@ Strong emphasis, aka bold, with asterisks or underscores.
 Combined emphasis with asterisks and underscores.
 
 Strikethrough uses two tildes. Scratch this.
+
+__________
+
+<a id="555"></a>
+
+## Example 14
+
+```
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo 2"
+```
+
+#### you can also insert images
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo 2"
+
