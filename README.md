@@ -87,13 +87,51 @@ _hello world!_
 
 * `Hi there! How are you?`
 
+`Hi there! How are you?`
+
+* It's a test
+
+* _this text is italic_
+
 ```
 
 * `Hi there! How are you?`
 
+#### more text can be done without a dot but in a frame
+
 `Hi there! How are you?`
 
+#### or text without a border but with a period
+
+* It's a test
+
+* _this text is italic_
+
 #### Here is our text wrapped in a frame
+
+## Example 5
+
+```
+- I did not put an end
+
+- I did not put an end
+  - I did not put an end
+
+- I did not put an end
+  - I did not put an end
+    - no, well, I did not put a square
+
+```
+
+#### You can also put a dash instead of a period and make a list
+
+- that's what I put a risk
+
+___
+
+- that's what I put a risk
+  - that's what I put a risk
+    - no, well, I did not put a square
 
 
 
